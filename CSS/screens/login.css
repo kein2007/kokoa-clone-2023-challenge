@@ -60,6 +60,10 @@
 #login-form input[type="submit"]:hover {
   color: var(--yellow);
 }
+#login-form input[type="submit"]:active {
+  opacity: 0.7;
+}
+
 
 #login-form a {
   text-align: center;
